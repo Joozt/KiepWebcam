@@ -9,3 +9,5 @@ Features:
 - Exit with mouse click, numpad + or numpad /
 
 Change the webcam URL in [MainWindow.xaml.cs](MainWindow.xaml.cs).
+
+See [KiepProjects](https://github.com/Joozt/KiepProjects) for an overview of all Kiep projects.
